@@ -1,1 +1,2 @@
 # Crop-Yield-Detection
+This project, "Crop Yield Prediction using AI and Remote Sensing Data," leverages the power of artificial intelligence (AI) and remote sensing technology to forecast crop yields accurately. The integration of AI techniques with satellite imagery and remote sensing data presents a transformative approach to agriculture, providing real-time and scalable insights for optimizing crop management.
